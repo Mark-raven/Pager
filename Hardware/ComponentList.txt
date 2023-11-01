@@ -1,0 +1,7 @@
+Components list:
+1) ESP 32
+2) 128X64 OLED Screen I2C interface (4 Pins)
+3) Small Buzzer
+4) 2 Four Channel Buttons
+5) Jumper cables according to your needs
+6) Breadboard
